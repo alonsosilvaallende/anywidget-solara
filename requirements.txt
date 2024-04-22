@@ -1,0 +1,2 @@
+anywidget==0.9.9
+solara==1.31.0
