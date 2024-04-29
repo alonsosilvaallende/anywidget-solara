@@ -6,3 +6,6 @@ A basic application where you click on the button or move the slider to activate
 
 - [Deployed app](https://anywidgetsolara.ploomberapp.io/) (deployed in [Ploomber](https://ploomber.io/))
 - [Blog post](https://alonsosilvaallende.github.io/blog/posts/2024-04-23-Build_a_basic_widget_with_AnyWidget_in_a_Solara_app.html)
+
+https://github.com/alonsosilvaallende/anywidget-solara/assets/30263736/8d3d39cd-c309-4199-9162-1ad4edc463c5
+
